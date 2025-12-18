@@ -13,38 +13,31 @@
       <link>https://stepfwddubstep.github.io/about/</link>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://stepfwddubstep.github.io/about/</guid>
-      <description>&lt;p&gt;Stepfwd is an independent electronic music platform focusing on dubstep and its mutations, curated by DJ, producer, and music fan Grégoire Yasmine. All our content is DIY and non-profit, aiming to highlight the most innovative sounds from underground scenes all over the world.&lt;/p&gt;
+      <description>&lt;p&gt;Stepfwd is an independent electronic music platform focusing on dubstep and its mutations&amp;hellip;&lt;/p&gt;
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
 &lt;p&gt;For any inquiries, you can reach us at: &lt;a href=&#34;mailto:stepfwddubstep@gmail.com&#34;&gt;stepfwddubstep@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;div style=&#34;display: flex; gap: 20px; margin-top: 20px;&#34;&gt;
-    &lt;a href=&#34;https://www.instagram.com/stepfwddubstep&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
-        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;30&#34; height=&#34;30&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;#ffffff&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
-            &lt;rect x=&#34;2&#34; y=&#34;2&#34; width=&#34;20&#34; height=&#34;20&#34; rx=&#34;5&#34; ry=&#34;5&#34;&gt;&lt;/rect&gt;
-            &lt;path d=&#34;M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z&#34;&gt;&lt;/path&gt;
-            &lt;line x1=&#34;17.5&#34; y1=&#34;6.5&#34; x2=&#34;17.51&#34; y2=&#34;6.5&#34;&gt;&lt;/line&gt;
-        &lt;/svg&gt;
-    &lt;/a&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;a href=&amp;quot;https://soundcloud.com/stepfwd-dubstep-news&amp;quot; target=&amp;quot;_blank&amp;quot; style=&amp;quot;text-decoration: none;&amp;quot;&amp;gt;
-    &amp;lt;svg xmlns=&amp;quot;http://www.w3.org/2000/svg&amp;quot; width=&amp;quot;30&amp;quot; height=&amp;quot;30&amp;quot; viewBox=&amp;quot;0 0 24 24&amp;quot; fill=&amp;quot;#ffffff&amp;quot;&amp;gt;
-        &amp;lt;path d=&amp;quot;M11.56,8.87V17h-1V9.06c0-0.1,0.06-0.19,0.16-0.19S11.56,8.96,11.56,8.87z M9.15,9.66v7.34h-1V9.82 c0-0.1,0.06-0.18,0.16-0.18S9.15,9.75,9.15,9.66z M7.06,12.56C7.06,12.65,7,12.73,6.9,12.73s-0.16-0.08-0.16-0.17v4.44h1V12.56z M16.71,7.21c-0.29,0-0.56,0.02-0.84,0.06c-0.57-2.61-2.88-4.57-5.65-4.57c-1.39,0-2.67,0.49-3.69,1.31L6.5,4.03 C5.83,4.03,5.19,4.29,4.71,4.77C4.24,5.24,3.97,5.88,3.97,6.56S4.24,7.87,4.71,8.35c0.47,0.47,1.11,0.74,1.79,0.74l0.02,0v7.91H2.47 C1.11,17,0,15.89,0,14.53c0-1.36,1.11-2.47,2.47-2.47h0.73v-1.65H2.47C0.2,10.41-1.65,12.26-1.65,14.53s1.85,4.12,4.12,4.12h14.24 c2.89,0,5.24-2.35,5.24-5.24C21.95,10.51,19.6,8.16,16.71,7.21z M13.97,8.08V17h-1V8.27c0-0.1,0.06-0.19,0.16-0.19 S13.97,8.17,13.97,8.08z M16.38,7.21V17h-1V7.21c0-0.1,0.06-0.16,0.16-0.16C15.65,7.05,16.38,7.12,16.38,7.21z&amp;quot;/&amp;gt;
-    &amp;lt;/svg&amp;gt;
-&amp;lt;/a&amp;gt;
-
-&amp;lt;a href=&amp;quot;https://www.youtube.com/channel/UCdHnvIl3aOinlgjF8ZB54CQ&amp;quot; target=&amp;quot;_blank&amp;quot; style=&amp;quot;text-decoration: none;&amp;quot;&amp;gt;
-    &amp;lt;svg xmlns=&amp;quot;http://www.w3.org/2000/svg&amp;quot; width=&amp;quot;30&amp;quot; height=&amp;quot;30&amp;quot; viewBox=&amp;quot;0 0 24 24&amp;quot; fill=&amp;quot;none&amp;quot; stroke=&amp;quot;#ffffff&amp;quot; stroke-width=&amp;quot;2&amp;quot; stroke-linecap=&amp;quot;round&amp;quot; stroke-linejoin=&amp;quot;round&amp;quot;&amp;gt;
-        &amp;lt;path d=&amp;quot;M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z&amp;quot;&amp;gt;&amp;lt;/path&amp;gt;
-        &amp;lt;polygon points=&amp;quot;9.75 15.02 15.5 11.75 9.75 8.83 9.75 15.02&amp;quot;&amp;gt;&amp;lt;/polygon&amp;gt;
-    &amp;lt;/svg&amp;gt;
-&amp;lt;/a&amp;gt;
-
-&amp;lt;a href=&amp;quot;mailto:stepfwddubstep@gmail.com&amp;quot; target=&amp;quot;_blank&amp;quot; style=&amp;quot;text-decoration: none;&amp;quot;&amp;gt;
-    &amp;lt;svg xmlns=&amp;quot;http://www.w3.org/2000/svg&amp;quot; width=&amp;quot;30&amp;quot; height=&amp;quot;30&amp;quot; viewBox=&amp;quot;0 0 24 24&amp;quot; fill=&amp;quot;none&amp;quot; stroke=&amp;quot;#ffffff&amp;quot; stroke-width=&amp;quot;2&amp;quot; stroke-linecap=&amp;quot;round&amp;quot; stroke-linejoin=&amp;quot;round&amp;quot;&amp;gt;
-        &amp;lt;path d=&amp;quot;M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z&amp;quot;&amp;gt;&amp;lt;/path&amp;gt;
-        &amp;lt;polyline points=&amp;quot;22,6 12,13 2,6&amp;quot;&amp;gt;&amp;lt;/polyline&amp;gt;
-    &amp;lt;/svg&amp;gt;
-&amp;lt;/a&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;</description>
+&lt;!DOCTYPE html PUBLIC &#34;-//W3C//DTD HTML 4.01//EN&#34; &#34;http://www.w3.org/TR/html4/strict.dtd&#34;&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=utf-8&#34;&gt;
+  &lt;meta http-equiv=&#34;Content-Style-Type&#34; content=&#34;text/css&#34;&gt;
+  &lt;title&gt;&lt;/title&gt;
+  &lt;meta name=&#34;Generator&#34; content=&#34;Cocoa HTML Writer&#34;&gt;
+  &lt;meta name=&#34;CocoaVersion&#34; content=&#34;2685.2&#34;&gt;
+  &lt;style type=&#34;text/css&#34;&gt;
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #e0e0e0; background-color: #191d27; background-color: rgba(25, 29, 39, 0.95)}
+    span.s1 {font-variant-ligatures: no-common-ligatures}
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&amp;lt;div class=&#34;social-icons&#34;&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&lt;span class=&#34;Apple-converted-space&#34;&gt;    &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&lt;span class=&#34;Apple-converted-space&#34;&gt;    &lt;/span&gt;&amp;lt;a href=&#34;mailto:stepfwddubstep@gmail.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer me&#34; title=&#34;email&#34;&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;&lt;span class=&#34;Apple-converted-space&#34;&gt;        &lt;/span&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 21&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
+    stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+    &lt;path d=&#34;M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z&#34;&gt;&lt;/path&gt;
+    &lt;polyline points=&#34;22,6 12,13 2,6&#34;&gt;&lt;/polyline&gt;
+&lt;/svg&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>December releases</title>
